@@ -1,0 +1,14 @@
+
+Y
+java:S1611H"<Remove the parentheses around the "succeededEvent" parameter(³é²–8éçÚÙ½.
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(ÔË”ñ8ŠğãÙ½.
+I
+java:S1602H",Remove useless curly braces around statement(³é²–8ŠğãÙ½.
+N
+java:S1602O",Remove useless curly braces around statement(¡ûªçÿÿÿÿÿ8à¢Ú½.
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8Ü“ÍÙ½.
+£
+java:S1186["€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(”ƒê»şÿÿÿÿ8Í÷ÆÓ½.
+^
+java:S1611O"<Remove the parentheses around the "succeededEvent" parameter(¡ûªçÿÿÿÿÿ8ÛÆ™Ø½.
